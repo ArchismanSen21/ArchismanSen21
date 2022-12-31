@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArchismanSen
-- 👀 I’m interested in python, machine learning, data science, web developent.
+- 👀 I’m interested in python, machine learning, cloud computing and data science.
 - 🌱 I’m currently learning data stuctures and technical skills needed for industry.
 - 💞️ I’m looking to collaborate on anyone with great ideas.
 - 📫 How to reach me :-
