@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchismanSen
-- 👀 I’m interested in python, machine learning, cloud computing and data science.
-- 🌱 I’m currently learning data stuctures and technical skills needed for industry.
+- 👀 I’m interested in python, java, restapis, machine learning, cloud computing and data science.
+- 🌱 I have 1 yr of experience as a java backend developer and learning about cloud service to transition to data engineer.
 - 💞️ I’m looking to collaborate on anyone with great ideas.
 - 📫 How to reach me :-
 - Linkedln: https://www.linkedin.com/in/archisman-sen-b37405182
